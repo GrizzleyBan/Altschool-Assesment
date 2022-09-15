@@ -33,3 +33,16 @@ Submit the contents of /etc/passwd, /etc/group, /etc/sudoers
 ### Instruction:  
 * Learn how to use the add-apt-repository command
 * Submit the content of /etc/apt/sources.list and the output of php -v command.
+
+## Exercise 5  
+
+### Task:  
+You already have Github account, aso setup a GitLab account if you don’t have one already
+You already have a altschool-cloud-exercises project, clone the project to your local system
+Setup your name and email in Git’s global config
+
+### Instruction:  
+Submit the output of:
+* git config -l
+* git remote -v
+* git log
