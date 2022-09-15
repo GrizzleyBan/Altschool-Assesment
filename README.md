@@ -24,3 +24,12 @@ Setup Ubuntu 20.04 LTS on your local machine using Vagrant
 * Generate SSH keys for the user in the admin group
 ### Instruction:  
 Submit the contents of /etc/passwd, /etc/group, /etc/sudoers
+
+## Exercise 4
+
+### Task:  
+* Install PHP 7.4 on your local linux machine using the ppa:ondrej/php package repo.
+
+### Instruction:  
+* Learn how to use the add-apt-repository command
+* Submit the content of /etc/apt/sources.list and the output of php -v command.
