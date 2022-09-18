@@ -34,7 +34,10 @@
 
 
 ### For visual Illustrations
-![Example 1]()
-![Example 1]()
-![Example 1]()
-![Example 1]()
+![Example 1](https://user-images.githubusercontent.com/62190735/190881165-334dead6-6c3a-46f6-a628-c888e7869c25.png
+)
+![Example 2](https://user-images.githubusercontent.com/62190735/190881166-0a420b2e-fbd6-4021-83c2-9b66c77f23c3.png
+)
+![Example 3](https://user-images.githubusercontent.com/62190735/190881168-dcb58be9-a4f4-494f-9a8f-22b0b6350f3d.png
+)
+![Example 4](https://user-images.githubusercontent.com/62190735/190881169-23565a6c-0b67-492e-8025-8adbf3861809.png)
