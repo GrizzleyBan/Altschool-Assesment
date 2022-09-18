@@ -1,0 +1,40 @@
+# Linux commands assignment
+
+### Here are a few linux commands i researched for the assignment and their uses.
+
+* ## Cal  
+      Used to display a calendar in your terminal.
+
+* ## bc
+       It allows you to enable command line calculator in Linux Terminal when you execute it.
+
+* ## factor
+      Factor is a mathematical command  for Linux terminal which will give you all the possible factors of the decimal number you enter in the shell.
+
+* ## ping
+      If you want to check if your system is connected to router or internet then PING (Packet INternet Groper) is the command for you. It uses ICMP protocol to connect to other devices.    
+
+* ## free
+      free command can be used to check exactly what amount of storage is free and used in physical as well as swap memory in the system.   
+
+* ## top
+      Top is simple but useful command to monitor all the ongoing processes on the Linux system with the user name, priority level, unique process id and shared memory by each task.
+
+* ## sl
+      When executed a steam engine passes through Terminal window. You can try it for fun!       
+
+* ## w
+      w is the short and simple command which will help you view the list of currently logged in users.
+
+* ## whoami
+      This command will help you to find out which user is logged into system or who you are logged in as.
+
+* ## expr
+      If you want to perform quick calculations during your work then expr is really useful command for you.
+
+
+### For visual Illustrations
+![Example 1]()
+![Example 1]()
+![Example 1]()
+![Example 1]()
