@@ -43,3 +43,5 @@ vagrant@ubuntu-focal:~$ sudo tail /etc/sudoers
 @includedir /etc/sudoers.d
 
 
+## For visual representation
+![Terminal](https://user-images.githubusercontent.com/62190735/191162272-fae86e8e-8bef-497d-9acc-1420b82c94f9.png)
